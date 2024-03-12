@@ -1,0 +1,65 @@
+{
+    "creatures": [
+        {
+            "id": 1,
+            "name": "vampire",
+            "features": ["pale skin", "sharp teeth", "only goes out at night"],
+            "categoryId": 2,
+            "countryID": 1
+        },
+        {
+            "id": 2,
+            "name": "ogopogo",
+            "features": [],
+            "categoryId": 1,
+            "countryID": 2
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "fullName": "Zavier Hopson",
+            "email": "zo.hopson94@gmail.com",
+            "isStaff": true 
+        }
+    ],
+    "countries": [
+        {
+            "id": 1,
+            "name": "Romania"            
+        },
+        {
+            "id": 2,
+            "name": "Canada"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "category": "cryptid"
+        },
+        {
+            "id": 2,
+            "category": "legendary"
+        },
+        {
+            "id": 3,
+            "category": "mythical"
+        }
+    ],
+    "types": [
+        {
+            "id": 1,
+            "name": "water"
+        },
+        {
+            "id": 2,
+            "name": "man-eater"
+        },
+        {
+            "id":3,
+            "name": "demi-god"
+        }
+    ]
+
+}
