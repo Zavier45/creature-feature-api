@@ -1,356 +1,358 @@
 {
-    "creatures": [
-        {
-            "id": 1,
-            "name": "Vampire",
-            "description": "In contemporary tales, vampires are depicted as pale, gaunt beings, obsessed with either reveling in or mourning their loss of humanity.<br>Classically, these tragic beings were described as having a ruddy complex, with flushed cheeks and lips and a slightly swollen belly. ",
-            "diet": "Vampires drink human blood, usually while their victim is either asleep or enthralled in a trance-like state.",
-            "categoryId": 2,
-            "countryId": 1,
-            "userId": 1
-        },
-        {
-            "id": 2,
-            "name": "Ogopogo",
-            "description": "Ogopogo is a large aquatic serpent supposedly living in Canada's Okanagan Lake in British Columbia. Sightings are scattered, and photographic evidence rare.",
-            "diet": "Ogopogo, like most aquatic carnivores, has a diet of fish and other aquatic animals. It is unknown if it consumes humans.",
-            "categoryId": 1,
-            "countryId": 2
-        },
-        {
-            "id": 3,
-            "name": "Horned Serpent",
-            "description": "A serpent, varying in size and color, but consistently described as possessing two horns, usually crystalline in appearance. Horned serpents possess no overt threat to humans, but do retain a thrall over the flora and fauna of its habitat.",
-            "diet": "The horned serpent's diet matches that of non-mythic snakes of comparable size. That is, bugs, frogs, small wildlife, etc.",
-            "categoryId": 3,
-            "countryId": 3
-        },
-        {
-            "id": 4,
-            "name": "Capelobo",
-            "description": "The capelobo is said to have 2 forms, one humanoid, and one more animal-like. In animal form, the capelobo appears to be a tapir with certain dog-like attributes.<br> In humanoid form, this creatures takes on its more dangerous appearance. Armed with sharp claws, the head of a tapir (sometimes a dog or anteater), and thick fur coat, the capelobo is more than capable of hunting its chosen prey.  ",
-            "diet": "The capelobo eats newborn kittens or puppies, and will squeeze the blood out of a human before consuming their brain. ",
-            "categoryId": 2,
-            "countryId": 4,
-            "userId":1
-        },
-        {
-            "id": 5,
-            "name": "Chupacabra",
-            "description": "A mexican crypid whose name translates to 'goat-sucker', the chupacabra is described as both reptilian and canine in appearance. Roughly the size of a large dog or small bear, the chupacabra hunts at night.",
-            "diet": "As stated by its name, the chupacabra eats by draining the blood of goats and other livestock.",
-            "categoryId": 1,
-            "countryId": 5
-        },
-        {
-            "id": 6,
-            "name": "Mongolian Death Worm",
-            "description": "The death worm is shaped like a sausage about two feet long, has no head nor leg and it is so poisonous that merely to touch it means instant death.",
-            "diet": "The worm is a carnivore, rarely breaching the surface of the desert except to feed.",
-            "categoryId": 1,
-            "countryId": 6 
-        },
-        {
-            "id": 7,
-            "name": "Mothman",
-            "description": "First spotted in Mount Pleasant, the mothman is said to be an omen of misfortune. It is described as being a slender man, roughly seven feet tall, with glowing red eyes and dark wings.",
-            "diet": "No information about the mothman's diet is known, though assumptions based upon its humanoid appearance can be made.",
-            "categoryId": 1,
-            "countryId": 3
-        },
-        {
-            "id": 8,
-            "name": "Upiór",
-            "description": "The upiór is often described as a proto-vampire in that, while older chronologically, it shares many characteristics with vampires. Prior to their death, an upiór was typically a person who was ostracized by their community for being 'other' (religiously or physically). Women who died in childbirth and those who passed without last rites were also prime candidates.",
-            "diet": "Like vampires, the upiór is said to drain its victims of blood. In addition, upiórs used their superhuman strength to tear their victims to shreds.",
-            "categoryId": 2,
-            "countryId": 8
-        },
-        {
-            "id": 9,
-            "name": "Mare",
-            "description": "Mares are night-bound creatures often attributed with causing nightmares, hence the name. It is said they would 'ride' their victims, causing extreme exhaustion and even seizures. Mares were most commonly invoked by witches as tools of revenge.",
-            "diet": "Because mares do not have a physical form, their diet is unusual. Rather that feasting on flesh or blood, mares feast on negativity and fear.",
-            "categoryId": 3,
-            "countryId": 9
-        },
-        {
-            "id": 10,
-            "name": "Jesus Christ",
-            "description": "A demi-god of the Christian faith, Jesus is said to have been born of a virgin woman towards the end of the year. Completely human in appearance, Jesus performed various miracles and acts of aid to the populace of whichever town he was passing through.",
-            "diet": "It is assumed he maintained an omnivorous diet congruent with the time period he was said to have lived in.",
-            "categoryId": 3,
-            "countryId": 7
-        }
-    ],
-    "users": [
-        {
-            "id": 1,
-            "fullName": "Zavier Hopson",
-            "username": "BossBeast",
-            "email": "zo.hopson94@gmail.com",
-            "isStaff": true 
-        },
-        {
-            "id": 2,
-            "fullName": "Langston Smart",
-            "username": "JelliedBook",
-            "email": "langsontsmart05@gmail.com",
-            "isStaff": false
-        }
-    ],
-    "countries": [
-        {
-            "id": 1,
-            "name": "Romania"            
-        },
-        {
-            "id": 2,
-            "name": "Canada"
-        },
-        {
-            "id": 3,
-            "name": "USA"
-        },
-        {
-            "id": 4,
-            "name": "Brazil"
-        },
-        {
-            "id": 5,
-            "name": "Puerto Rico"
-        },
-        {
-            "id": 6,
-            "name": "Mongolia"
-        },
-        {
-            "id": 7,
-            "name": "Israel"
-        },
-        {
-            "id": 8,
-            "name": "Russia"
-        },
-        {
-            "id": 9,
-            "name": "Scandinavia"
-        }
-    ],
-    "categories": [
-        {
-            "id": 1,
-            "category": "Cryptid"
-        },
-        {
-            "id": 2,
-            "category": "Legendary"
-        },
-        {
-            "id": 3,
-            "category": "Mythical"
-        }
-    ],
-    "types": [
-        {
-            "id": 1,
-            "type": "Aquatic"
-        },
-        {
-            "id": 2,
-            "type": "Flesh-Eater"
-        },
-        {
-            "id":3,
-            "type": "Demi-God"
-        },
-        {
-            "id": 4,
-            "type": "Blood-Drinker"
-        },
-        {
-            "id": 5,
-            "type": "Vocal"
-        },
-        {
-            "id": 6,
-            "type": "Serpent"
-        },
-        {
-            "id":7,
-            "type": "Undead"
-        },
-        {
-            "id": 8,
-            "type": "Humanoid"
-        },
-        {
-            "id": 9,
-            "type": "Forest-dweller"
-        },
-        {
-            "id": 10,
-            "type": "Shape-shifter"
-        },
-        {
-            "id": 11,
-            "type": "Desert-dweller"
-        },
-        {
-            "id": 12,
-            "type": "Flying"
-        },
-        {
-            "id": 13,
-            "type": "Spirit"
-        },
-        {
-            "id": 14,
-            "type": "Demon"
-        },
-        {
-            "id":15,
-            "type": "Vengeance"
-        },
-        {
-            "id":16,
-            "type": "Baby-eater"
-        },
-        {
-            "id": 17,
-            "type": "Omen"
-        },
-        {
-            "id": 18,
-            "type": "Nocturnal"
-        }
-    ],
-    "creatureTypes": [
-        {
-            "id":1,
-            "creatureId": 1,
-            "typeId": 4
-        },
-        {
-            "id": 2,
-            "creatureId": 1,
-            "typeId": 7
-        },
-        {
-            "id": 3,
-            "creatureId": 2,
-            "typeId": 1
-        },
-        {
-            "id": 4,
-            "creatureId": 2,
-            "typeId": 6
-        },
-        {
-            "id": 5,
-            "creatureId": 3,
-            "typeId": 6
-        },
-        {
-            "id": 6,
-            "creatureId": 3,
-            "typeId": 9
-        },
-        {
-            "id": 7,
-            "creatureId": 4,
-            "typeId": 9
-        },
-        {
-            "id": 8,
-            "creatureId": 4,
-            "typeId": 10
-        },
-        {
-            "id": 9,
-            "creatureId": 4,
-            "typeId": 2
-        },
-        {
-            "id": 10,
-            "creatureId": 4,
-            "typeId": 4
-        },
-        {
-            "id": 11,
-            "creatureId": 5,
-            "typeId":4
-        },
-        {
-            "id": 11,
-            "creatureId": 6,
-            "typeId": 6
-        },
-        {
-            "id": 12,
-            "creatureId": 6,
-            "typeId": 11
-        },
-        {
-            "id": 13,
-            "creatureId": 7,
-            "typeId": 8
-        },
-        {
-            "id": 14,
-            "creatureId": 7,
-            "typeId": 12
-        },
-        {
-            "id": 15,
-            "creatureId": 7,
-            "typeId": 17
-        },
-        {
-            "id": 16,
-            "creatureId": 8,
-            "typeId": 4
-        },
-        {
-            "id": 17,
-            "creatureId": 8,
-            "typeId": 7
-        },
-        {
-            "id": 18,
-            "creatureId": 8,
-            "typeId": 8
-        },
-        {
-            "id": 19,
-            "creatureId": 8,
-            "typeId": 16
-        },
-        {
-            "id": 20,
-            "creatureId": 9,
-            "typeId": 13
-        },
-        {
-            "id": 21,
-            "creatureId": 9,
-            "typeId": 15
-        },
-        {
-            "id": 22,
-            "creatureId": 9,
-            "typeId": 18
-        },
-        {
-            "id": 23,
-            "creatureId": 10,
-            "typeId": 3
-        },
-        {
-            "id": 24,
-            "creatureId": 10,
-            "typeId": 8
-        }
-    ]
-
+  "creatures": [
+    {
+      "id": 1,
+      "name": "Vampire",
+      "description": "In contemporary tales, vampires are depicted as pale, gaunt beings, obsessed with either reveling in or mourning their loss of humanity.<br>Classically, these tragic beings were described as having a ruddy complex, with flushed cheeks and lips and a slightly swollen belly.",
+      "diet": "Vampires drink human blood, usually while their victim is either asleep or enthralled in a trance-like state.",
+      "categoryId": 2,
+      "countryId": 1,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "Ogopogo",
+      "description": "Ogopogo is a large aquatic serpent supposedly living in Canada's Okanagan Lake in British Columbia. Sightings are scattered, and photographic evidence rare.",
+      "diet": "Ogopogo, like most aquatic carnivores, has a diet of fish and other aquatic animals. It is unknown if it consumes humans.",
+      "categoryId": 1,
+      "countryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Horned Serpent",
+      "description": "A serpent, varying in size and color, but consistently described as possessing two horns, usually crystalline in appearance. Horned serpents possess no overt threat to humans, but do retain a thrall over the flora and fauna of its habitat.",
+      "diet": "The horned serpent's diet matches that of non-mythic snakes of comparable size. That is, bugs, frogs, small wildlife, etc.",
+      "categoryId": 3,
+      "countryId": 3
+    },
+    {
+      "id": 4,
+      "name": "Capelobo",
+      "description": "The capelobo is said to have 2 forms, one humanoid, and one more animal-like. In animal form, the capelobo appears to be a tapir with certain dog-like attributes.<br> In humanoid form, this creatures takes on its more dangerous appearance. Armed with sharp claws, the head of a tapir (sometimes a dog or anteater), and thick fur coat, the capelobo is more than capable of hunting its chosen prey.",
+      "diet": "The capelobo eats newborn kittens or puppies, and will squeeze the blood out of a human before consuming their brain.",
+      "categoryId": 2,
+      "countryId": 4,
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "name": "Chupacabra",
+      "description": "A mexican crypid whose name translates to 'goat-sucker', the chupacabra is described as both reptilian and canine in appearance. Roughly the size of a large dog or small bear, the chupacabra hunts at night.",
+      "diet": "As stated by its name, the chupacabra eats by draining the blood of goats and other livestock.",
+      "categoryId": 1,
+      "countryId": 5
+    },
+    {
+      "id": 6,
+      "name": "Mongolian Death Worm",
+      "description": "The death worm is shaped like a sausage about two feet long, has no head nor leg and it is so poisonous that merely to touch it means instant death.",
+      "diet": "The worm is a carnivore, rarely breaching the surface of the desert except to feed.",
+      "categoryId": 1,
+      "countryId": 6
+    },
+    {
+      "id": 7,
+      "name": "Mothman",
+      "description": "First spotted in Mount Pleasant, the mothman is said to be an omen of misfortune. It is described as being a slender man, roughly seven feet tall, with glowing red eyes and dark wings.",
+      "diet": "No information about the mothman's diet is known, though assumptions based upon its humanoid appearance can be made.",
+      "categoryId": 1,
+      "countryId": 3
+    },
+    {
+      "id": 8,
+      "name": "Upiór",
+      "description": "The upiór is often described as a proto-vampire in that, while older chronologically, it shares many characteristics with vampires. Prior to their death, an upiór was typically a person who was ostracized by their community for being 'other' (religiously or physically). Women who died in childbirth and those who passed without last rites were also prime candidates.",
+      "diet": "Like vampires, the upiór is said to drain its victims of blood. In addition, upiórs used their superhuman strength to tear their victims to shreds.",
+      "categoryId": 2,
+      "countryId": 8
+    },
+    {
+      "id": 9,
+      "name": "Mare",
+      "description": "Mares are night-bound creatures often attributed with causing nightmares, hence the name. It is said they would 'ride' their victims, causing extreme exhaustion and even seizures. Mares were most commonly invoked by witches as tools of revenge.",
+      "diet": "Because mares do not have a physical form, their diet is unusual. Rather that feasting on flesh or blood, mares feast on negativity and fear.",
+      "categoryId": 3,
+      "countryId": 9
+    },
+    {
+      "id": 10,
+      "name": "Jesus Christ",
+      "description": "A demi-god of the Christian faith, Jesus is said to have been born of a virgin woman towards the end of the year. Completely human in appearance, Jesus performed various miracles and acts of aid to the populace of whichever town he was passing through.",
+      "diet": "It is assumed he maintained an omnivorous diet congruent with the time period he was said to have lived in.",
+      "categoryId": 3,
+      "countryId": 7
+    },
+    {
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Zavier Hopson",
+      "username": "BossBeast",
+      "email": "zo.hopson94@gmail.com",
+      "isStaff": true
+    },
+    {
+      "id": 2,
+      "fullName": "Langston Smart",
+      "username": "JelliedBook",
+      "email": "langsontsmart05@gmail.com",
+      "isStaff": false
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "Romania"
+    },
+    {
+      "id": 2,
+      "name": "Canada"
+    },
+    {
+      "id": 3,
+      "name": "USA"
+    },
+    {
+      "id": 4,
+      "name": "Brazil"
+    },
+    {
+      "id": 5,
+      "name": "Puerto Rico"
+    },
+    {
+      "id": 6,
+      "name": "Mongolia"
+    },
+    {
+      "id": 7,
+      "name": "Israel"
+    },
+    {
+      "id": 8,
+      "name": "Russia"
+    },
+    {
+      "id": 9,
+      "name": "Scandinavia"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Cryptid"
+    },
+    {
+      "id": 2,
+      "category": "Legendary"
+    },
+    {
+      "id": 3,
+      "category": "Mythical"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "Aquatic"
+    },
+    {
+      "id": 2,
+      "type": "Flesh-Eater"
+    },
+    {
+      "id": 3,
+      "type": "Demi-God"
+    },
+    {
+      "id": 4,
+      "type": "Blood-Drinker"
+    },
+    {
+      "id": 5,
+      "type": "Vocal"
+    },
+    {
+      "id": 6,
+      "type": "Serpent"
+    },
+    {
+      "id": 7,
+      "type": "Undead"
+    },
+    {
+      "id": 8,
+      "type": "Humanoid"
+    },
+    {
+      "id": 9,
+      "type": "Forest-dweller"
+    },
+    {
+      "id": 10,
+      "type": "Shape-shifter"
+    },
+    {
+      "id": 11,
+      "type": "Desert-dweller"
+    },
+    {
+      "id": 12,
+      "type": "Flying"
+    },
+    {
+      "id": 13,
+      "type": "Spirit"
+    },
+    {
+      "id": 14,
+      "type": "Demon"
+    },
+    {
+      "id": 15,
+      "type": "Vengeance"
+    },
+    {
+      "id": 16,
+      "type": "Baby-eater"
+    },
+    {
+      "id": 17,
+      "type": "Omen"
+    },
+    {
+      "id": 18,
+      "type": "Nocturnal"
+    }
+  ],
+  "creatureTypes": [
+    {
+      "id": 1,
+      "creatureId": 1,
+      "typeId": 4
+    },
+    {
+      "id": 2,
+      "creatureId": 1,
+      "typeId": 7
+    },
+    {
+      "id": 3,
+      "creatureId": 2,
+      "typeId": 1
+    },
+    {
+      "id": 4,
+      "creatureId": 2,
+      "typeId": 6
+    },
+    {
+      "id": 5,
+      "creatureId": 3,
+      "typeId": 6
+    },
+    {
+      "id": 6,
+      "creatureId": 3,
+      "typeId": 9
+    },
+    {
+      "id": 7,
+      "creatureId": 4,
+      "typeId": 9
+    },
+    {
+      "id": 8,
+      "creatureId": 4,
+      "typeId": 10
+    },
+    {
+      "id": 9,
+      "creatureId": 4,
+      "typeId": 2
+    },
+    {
+      "id": 10,
+      "creatureId": 4,
+      "typeId": 4
+    },
+    {
+      "id": 11,
+      "creatureId": 5,
+      "typeId": 4
+    },
+    {
+      "id": 11,
+      "creatureId": 6,
+      "typeId": 6
+    },
+    {
+      "id": 12,
+      "creatureId": 6,
+      "typeId": 11
+    },
+    {
+      "id": 13,
+      "creatureId": 7,
+      "typeId": 8
+    },
+    {
+      "id": 14,
+      "creatureId": 7,
+      "typeId": 12
+    },
+    {
+      "id": 15,
+      "creatureId": 7,
+      "typeId": 17
+    },
+    {
+      "id": 16,
+      "creatureId": 8,
+      "typeId": 4
+    },
+    {
+      "id": 17,
+      "creatureId": 8,
+      "typeId": 7
+    },
+    {
+      "id": 18,
+      "creatureId": 8,
+      "typeId": 8
+    },
+    {
+      "id": 19,
+      "creatureId": 8,
+      "typeId": 16
+    },
+    {
+      "id": 20,
+      "creatureId": 9,
+      "typeId": 13
+    },
+    {
+      "id": 21,
+      "creatureId": 9,
+      "typeId": 15
+    },
+    {
+      "id": 22,
+      "creatureId": 9,
+      "typeId": 18
+    },
+    {
+      "id": 23,
+      "creatureId": 10,
+      "typeId": 3
+    },
+    {
+      "id": 24,
+      "creatureId": 10,
+      "typeId": 8
+    }
+  ]
 }
