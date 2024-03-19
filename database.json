@@ -89,6 +89,24 @@
       "categoryId": 3,
       "countryId": 7,
       "userId": 1
+    },
+    {
+      "name": "Jersey Devil",
+      "description": "The creature is often described as a flying biped with hooves, but there are many variations. The common description is that of a bipedal kangaroo-like or wyvern-like creature with a horse- or goat-like head, leathery bat-like wings, horns, small arms with clawed hands, legs with cloven hooves, and a forked or pointed tail. It is also said that it has a strange elongated body and a thick tail. It has been reported to move quickly and is often described as emitting a high-pitched \"blood-curdling scream\".",
+      "diet": "The jersey devil is omnivorous, raiding farms to devour crops and livestock alike.",
+      "categoryId": 1,
+      "countryId": 3,
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "name": "Pope Lick Monster",
+      "description": "More commonly known as the goat man, the Pope Lick monster lives under a trestle bridge in Louisville, Kentucky.  Numerous urban legends exist about the creature's origins and the methods it employs to claim its victims. According to some accounts, the creature uses either hypnosis or voice mimicry to lure trespassers onto the trestle to meet their death before an oncoming train. Other stories claim the monster jumps down from the trestle onto the roofs of cars passing beneath it. Yet other legends tell that it attacks its victims with a blood-stained axe and that the very sight of the creature is so unsettling that those who see it while walking across the high trestle are driven to leap off.  Other legends hold that the monster is a human-goat hybrid, and that it was a circus freak who vowed revenge after being mistreated. In one version, it is said the monster escaped after a train derailed on the trestle. Another version commonly told by locals of the area claims that the monster is really the twisted reincarnated form of a farmer who sacrificed goats in exchange for Satanic powers.",
+      "diet": "Although nothing is reported, the pope lick monster can be assumed to have an omnivorous diet.",
+      "categoryId": 1,
+      "countryId": 3,
+      "userId": 2,
+      "id": 12
     }
   ],
   "users": [
