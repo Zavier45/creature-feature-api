@@ -15,7 +15,8 @@
       "description": "Ogopogo is a large aquatic serpent supposedly living in Canada's Okanagan Lake in British Columbia. Sightings are scattered, and photographic evidence rare.",
       "diet": "Ogopogo, like most aquatic carnivores, has a diet of fish and other aquatic animals. It is unknown if it consumes humans.",
       "categoryId": 1,
-      "countryId": 2
+      "countryId": 2,
+      "userId": 2
     },
     {
       "id": 3,
@@ -23,7 +24,8 @@
       "description": "A serpent, varying in size and color, but consistently described as possessing two horns, usually crystalline in appearance. Horned serpents possess no overt threat to humans, but do retain a thrall over the flora and fauna of its habitat.",
       "diet": "The horned serpent's diet matches that of non-mythic snakes of comparable size. That is, bugs, frogs, small wildlife, etc.",
       "categoryId": 3,
-      "countryId": 3
+      "countryId": 3,
+      "userId": 1
     },
     {
       "id": 4,
@@ -40,7 +42,8 @@
       "description": "A mexican crypid whose name translates to 'goat-sucker', the chupacabra is described as both reptilian and canine in appearance. Roughly the size of a large dog or small bear, the chupacabra hunts at night.",
       "diet": "As stated by its name, the chupacabra eats by draining the blood of goats and other livestock.",
       "categoryId": 1,
-      "countryId": 5
+      "countryId": 5,
+      "userId": 2
     },
     {
       "id": 6,
@@ -48,7 +51,8 @@
       "description": "The death worm is shaped like a sausage about two feet long, has no head nor leg and it is so poisonous that merely to touch it means instant death.",
       "diet": "The worm is a carnivore, rarely breaching the surface of the desert except to feed.",
       "categoryId": 1,
-      "countryId": 6
+      "countryId": 6,
+      "userId": 2
     },
     {
       "id": 7,
@@ -56,7 +60,8 @@
       "description": "First spotted in Mount Pleasant, the mothman is said to be an omen of misfortune. It is described as being a slender man, roughly seven feet tall, with glowing red eyes and dark wings.",
       "diet": "No information about the mothman's diet is known, though assumptions based upon its humanoid appearance can be made.",
       "categoryId": 1,
-      "countryId": 3
+      "countryId": 3,
+      "userId": 1
     },
     {
       "id": 8,
@@ -64,7 +69,8 @@
       "description": "The upiór is often described as a proto-vampire in that, while older chronologically, it shares many characteristics with vampires. Prior to their death, an upiór was typically a person who was ostracized by their community for being 'other' (religiously or physically). Women who died in childbirth and those who passed without last rites were also prime candidates.",
       "diet": "Like vampires, the upiór is said to drain its victims of blood. In addition, upiórs used their superhuman strength to tear their victims to shreds.",
       "categoryId": 2,
-      "countryId": 8
+      "countryId": 8,
+      "userId": 1
     },
     {
       "id": 9,
@@ -72,7 +78,8 @@
       "description": "Mares are night-bound creatures often attributed with causing nightmares, hence the name. It is said they would 'ride' their victims, causing extreme exhaustion and even seizures. Mares were most commonly invoked by witches as tools of revenge.",
       "diet": "Because mares do not have a physical form, their diet is unusual. Rather that feasting on flesh or blood, mares feast on negativity and fear.",
       "categoryId": 3,
-      "countryId": 9
+      "countryId": 9,
+      "userId": 1
     },
     {
       "id": 10,
@@ -80,10 +87,8 @@
       "description": "A demi-god of the Christian faith, Jesus is said to have been born of a virgin woman towards the end of the year. Completely human in appearance, Jesus performed various miracles and acts of aid to the populace of whichever town he was passing through.",
       "diet": "It is assumed he maintained an omnivorous diet congruent with the time period he was said to have lived in.",
       "categoryId": 3,
-      "countryId": 7
-    },
-    {
-      "id": 11
+      "countryId": 7,
+      "userId": 1
     }
   ],
   "users": [
