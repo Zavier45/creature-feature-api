@@ -107,22 +107,38 @@
       "countryId": 3,
       "userId": 2,
       "id": 12
+    },
+    {
+      "name": "Deer Man",
+      "description": "Deer Man is a cryptid whose legend originates in the folklore of North America. A hybrid animal, Deer Man has the antlered head of a great stag, a human's torso, and legs described as similar to either those of a man or deer. In addition, it is usually said to be well muscled, and surprisingly fast for its size. Other accounts gift the beast with the power to transform itself from a regular deer into the form described previously.",
+      "diet": "Although, as with most cryptids, a definitive diet is unknown, the deer-man bears close resemblance to Navajo skinwalkers. As such, a carnivorous diet of human flesh can be assumed.",
+      "categoryId": 1,
+      "countryId": 3,
+      "userId": 3,
+      "id": 13
     }
   ],
   "users": [
     {
       "id": 1,
       "fullName": "Zavier Hopson",
-      "username": "BossBeast",
+      "userName": "BossBeast",
       "email": "zo.hopson94@gmail.com",
       "isStaff": true
     },
     {
       "id": 2,
       "fullName": "Langston Smart",
-      "username": "JelliedBook",
+      "userName": "JelliedBook",
       "email": "langsontsmart05@gmail.com",
       "isStaff": false
+    },
+    {
+      "email": "hobbes@gmail.com",
+      "fullName": "Zachary Trouy",
+      "userName": "Hobbes",
+      "isStaff": true,
+      "id": 3
     }
   ],
   "countries": [
@@ -161,6 +177,14 @@
     {
       "id": 9,
       "name": "Scandinavia"
+    },
+    {
+      "id": 10,
+      "name": "Ireland"
+    },
+    {
+      "id": 11,
+      "name": "Iran"
     }
   ],
   "categories": [
