@@ -2,4 +2,4 @@
 
 <h2>Purpose</h2>
 
-DThis file serves as the database for the Creature Feature program.
+This file serves as the database for the Creature Feature program.
