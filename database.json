@@ -7,7 +7,8 @@
       "diet": "Vampires drink human blood, usually while their victim is either asleep or enthralled in a trance-like state.",
       "categoryId": 2,
       "countryId": 1,
-      "userId": 1
+      "userId": 4,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FClassicVampiresFanpage%2F&psig=AOvVaw0YUqTwySjeejQWopEDayyr&ust=1711145214396000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD6w4CuhoUDFQAAAAAdAAAAABAJ"
     },
     {
       "id": 2,
@@ -116,6 +117,15 @@
       "countryId": 3,
       "userId": 3,
       "id": 13
+    },
+    {
+      "name": "Daeva",
+      "description": "A daeva is a being that was 'born to be rejected. That is, an entity of chaos and destruction.",
+      "diet": "Being ephemeral creatures of shadow, ,daeva's do not have a diet.",
+      "categoryId": 3,
+      "countryId": 11,
+      "userId": 3,
+      "id": 14
     }
   ],
   "users": [
@@ -123,14 +133,14 @@
       "id": 1,
       "fullName": "Zavier Hopson",
       "userName": "BossBeast",
-      "email": "zo.hopson94@gmail.com",
+      "email": "zavier@gmail.com",
       "isStaff": true
     },
     {
       "id": 2,
       "fullName": "Langston Smart",
       "userName": "JelliedBook",
-      "email": "langsontsmart05@gmail.com",
+      "email": "booksmarts@gmail.com",
       "isStaff": false
     },
     {
@@ -139,6 +149,13 @@
       "userName": "Hobbes",
       "isStaff": true,
       "id": 3
+    },
+    {
+      "email": "smithing420@gmail.com",
+      "fullName": "Hannah Smith",
+      "userName": "TheHannahnator",
+      "isStaff": false,
+      "id": 4
     }
   ],
   "countries": [
@@ -185,6 +202,22 @@
     {
       "id": 11,
       "name": "Iran"
+    },
+    {
+      "id": 12,
+      "name": "Greenland"
+    },
+    {
+      "id": 13,
+      "name": "England"
+    },
+    {
+      "id": 14,
+      "name": "Wales"
+    },
+    {
+      "id": 15,
+      "name": "Scotland"
     }
   ],
   "categories": [
