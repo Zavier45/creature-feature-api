@@ -3,12 +3,13 @@
     {
       "id": 1,
       "name": "Vampire",
-      "description": "In contemporary tales, vampires are depicted as pale, gaunt beings, obsessed with either reveling in or mourning their loss of humanity.<br>Classically, these tragic beings were described as having a ruddy complex, with flushed cheeks and lips and a slightly swollen belly.",
+      "description": "In contemporary tales, vampires are depicted as pale, gaunt beings, obsessed with either reveling in or mourning their loss of humanity. Classically, these tragic beings were described as having a ruddy complex, with flushed cheeks and lips and a slightly swollen belly.",
       "diet": "Vampires drink human blood, usually while their victim is either asleep or enthralled in a trance-like state.",
       "categoryId": 2,
       "countryId": 1,
       "userId": 4,
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FClassicVampiresFanpage%2F&psig=AOvVaw0YUqTwySjeejQWopEDayyr&ust=1711145214396000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD6w4CuhoUDFQAAAAAdAAAAABAJ"
+      "image": "https://images.nightcafe.studio/jobs/I76ylE1QRGkCaMpuDdL4/I76ylE1QRGkCaMpuDdL4--1--c9ph3.jpg?tr=w-1600,c-at_max",
+      "tales": "Dracula, Dracula Untold"
     },
     {
       "id": 2,
@@ -17,25 +18,18 @@
       "diet": "Ogopogo, like most aquatic carnivores, has a diet of fish and other aquatic animals. It is unknown if it consumes humans.",
       "categoryId": 1,
       "countryId": 2,
-      "userId": 2
+      "userId": 2,
+      "image": "https://www.bpmcdn.com/f/files/salmonarm/import/2019-02/15499347_web1_ogopogo2.jpg"
     },
     {
-      "id": 3,
-      "name": "Horned Serpent",
-      "description": "A serpent, varying in size and color, but consistently described as possessing two horns, usually crystalline in appearance. Horned serpents possess no overt threat to humans, but do retain a thrall over the flora and fauna of its habitat.",
-      "diet": "The horned serpent's diet matches that of non-mythic snakes of comparable size. That is, bugs, frogs, small wildlife, etc.",
-      "categoryId": 3,
-      "countryId": 3,
-      "userId": 1
-    },
-    {
-      "id": 4,
       "name": "Capelobo",
-      "description": "The capelobo is said to have 2 forms, one humanoid, and one more animal-like. In animal form, the capelobo appears to be a tapir with certain dog-like attributes.<br> In humanoid form, this creatures takes on its more dangerous appearance. Armed with sharp claws, the head of a tapir (sometimes a dog or anteater), and thick fur coat, the capelobo is more than capable of hunting its chosen prey.",
+      "description": "The capelobo is said to have 2 forms, one humanoid, and one more animal-like. In animal form, the capelobo appears to be a tapir with certain dog-like attributes. In humanoid form, this creatures takes on its more dangerous appearance. Armed with sharp claws, the head of a tapir (sometimes a dog or anteater), and thick fur coat, the capelobo is more than capable of hunting its chosen prey. ",
       "diet": "The capelobo eats newborn kittens or puppies, and will squeeze the blood out of a human before consuming their brain.",
       "categoryId": 2,
       "countryId": 4,
-      "userId": 1
+      "userId": 1,
+      "id": 4,
+      "image": "https://preview.redd.it/capelobo-unraveling-the-beast-of-brazilian-folklore-oddity-v0-psgig98waysb1.png?width=720&format=png&auto=webp&s=2bcf7a8464c796d68e39f5b94a92522185a0dda8"
     },
     {
       "id": 5,
@@ -44,7 +38,8 @@
       "diet": "As stated by its name, the chupacabra eats by draining the blood of goats and other livestock.",
       "categoryId": 1,
       "countryId": 5,
-      "userId": 2
+      "userId": 2,
+      "image": "https://img.texasmonthly.com/2013/04/CRITTER_680X382.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-3.3.1&q=45&w=1250"
     },
     {
       "id": 6,
@@ -53,16 +48,19 @@
       "diet": "The worm is a carnivore, rarely breaching the surface of the desert except to feed.",
       "categoryId": 1,
       "countryId": 6,
-      "userId": 2
+      "userId": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Allghoikhorkhoi.jpg/220px-Allghoikhorkhoi.jpg"
     },
     {
-      "id": 7,
       "name": "Mothman",
       "description": "First spotted in Mount Pleasant, the mothman is said to be an omen of misfortune. It is described as being a slender man, roughly seven feet tall, with glowing red eyes and dark wings.",
       "diet": "No information about the mothman's diet is known, though assumptions based upon its humanoid appearance can be made.",
       "categoryId": 1,
       "countryId": 3,
-      "userId": 1
+      "userId": 1,
+      "id": 7,
+      "image": "https://www.wowktv.com/wp-content/uploads/sites/52/2023/04/mothman.jpg?strip=1&w=640",
+      "tales": "Mothman the Movie"
     },
     {
       "id": 8,
@@ -71,7 +69,8 @@
       "diet": "Like vampires, the upiór is said to drain its victims of blood. In addition, upiórs used their superhuman strength to tear their victims to shreds.",
       "categoryId": 2,
       "countryId": 8,
-      "userId": 1
+      "userId": 1,
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-3f4f47a67b18e2c410126a601ab925cb-lq"
     },
     {
       "id": 9,
@@ -80,16 +79,8 @@
       "diet": "Because mares do not have a physical form, their diet is unusual. Rather that feasting on flesh or blood, mares feast on negativity and fear.",
       "categoryId": 3,
       "countryId": 9,
-      "userId": 1
-    },
-    {
-      "id": 10,
-      "name": "Jesus Christ",
-      "description": "A demi-god of the Christian faith, Jesus is said to have been born of a virgin woman towards the end of the year. Completely human in appearance, Jesus performed various miracles and acts of aid to the populace of whichever town he was passing through.",
-      "diet": "It is assumed he maintained an omnivorous diet congruent with the time period he was said to have lived in.",
-      "categoryId": 3,
-      "countryId": 7,
-      "userId": 1
+      "userId": 1,
+      "image": "https://img.atlasobscura.com/l35M0eM9_McJnsgz8ktgnl4xiRRcceDZRY73lAry2X8/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85ZWFjYzIzZGFm/MGQ5MDA4NjJfRnJp/dHpfU2Nod2ltYmVj/a18tX015X0RyZWFt/LF9NeV9CYWRfRHJl/YW0uXzE5MTUuanBn.jpg"
     },
     {
       "name": "Jersey Devil",
@@ -98,7 +89,8 @@
       "categoryId": 1,
       "countryId": 3,
       "userId": 2,
-      "id": 11
+      "id": 11,
+      "image": "https://benfranklinsworld.com/wp-content/uploads/2018/06/Regal-Feature.jpg"
     },
     {
       "name": "Pope Lick Monster",
@@ -107,7 +99,8 @@
       "categoryId": 1,
       "countryId": 3,
       "userId": 2,
-      "id": 12
+      "id": 12,
+      "image": "https://gray-wave-prod.cdn.arcpublishing.com/resizer/v2/HGBRNN6MMRDY5OHN34M34QGEX4.jpg?auth=9673e241684d6e8d0d74d4f141162a2cf5175e5c58c5616c549e1bd6dd1e03a6&width=980&height=545&smart=true"
     },
     {
       "name": "Deer Man",
@@ -116,7 +109,8 @@
       "categoryId": 1,
       "countryId": 3,
       "userId": 3,
-      "id": 13
+      "id": 13,
+      "image": "https://images.nightcafe.studio/jobs/k5qPuQx743qzLyZBnaR9/k5qPuQx743qzLyZBnaR9--1--kirqe.jpg?tr=w-1600,c-at_max"
     },
     {
       "name": "Daeva",
@@ -125,37 +119,60 @@
       "categoryId": 3,
       "countryId": 11,
       "userId": 3,
-      "id": 14
+      "id": 14,
+      "image": "https://oldworldgods.com/wp-content/uploads/2023/09/daeva1.jpg"
     }
   ],
   "users": [
     {
       "id": 1,
-      "fullName": "Zavier Hopson",
-      "userName": "BossBeast",
+      "name": "Zavier Hopson",
+      "username": "BossBeast",
       "email": "zavier@gmail.com",
+      "image": "https://images.nightcafe.studio/jobs/NzHL4GumJpuN4yEntg7f/NzHL4GumJpuN4yEntg7f--1--pefh5.jpg?tr=w-1600,c-at_max",
+      "bio": "Created this website to bring together all the monster hunters, lovers, and enthusiasts.",
+      "favCreature": "Mare",
       "isStaff": true
     },
     {
       "id": 2,
-      "fullName": "Langston Smart",
-      "userName": "JelliedBook",
+      "name": "Langston Smart",
+      "username": "JelliedBook",
       "email": "booksmarts@gmail.com",
+      "image": "",
+      "bio": "",
+      "favCreature": "",
       "isStaff": false
     },
     {
       "email": "hobbes@gmail.com",
-      "fullName": "Zachary Trouy",
-      "userName": "Hobbes",
+      "name": "Zachary Trouy",
+      "username": "Hobbes",
+      "image": "",
+      "bio": "",
+      "favCreature": "",
       "isStaff": true,
       "id": 3
     },
     {
       "email": "smithing420@gmail.com",
-      "fullName": "Hannah Smith",
-      "userName": "TheHannahnator",
+      "name": "Hannah Smith",
+      "username": "TheHannahnator",
+      "image": "",
+      "bio": "",
+      "favCreature": "",
       "isStaff": false,
       "id": 4
+    },
+    {
+      "email": "dhop@gmail.com",
+      "name": "Darby Hopson",
+      "username": "ButtLicker",
+      "image": "",
+      "bio": "",
+      "favCreature": "",
+      "isStaff": true,
+      "id": 5
     }
   ],
   "countries": [
@@ -330,16 +347,6 @@
       "typeId": 6
     },
     {
-      "id": 5,
-      "creatureId": 3,
-      "typeId": 6
-    },
-    {
-      "id": 6,
-      "creatureId": 3,
-      "typeId": 9
-    },
-    {
       "id": 7,
       "creatureId": 4,
       "typeId": 9
@@ -423,16 +430,6 @@
       "id": 22,
       "creatureId": 9,
       "typeId": 18
-    },
-    {
-      "id": 23,
-      "creatureId": 10,
-      "typeId": 3
-    },
-    {
-      "id": 24,
-      "creatureId": 10,
-      "typeId": 8
     }
   ]
 }
